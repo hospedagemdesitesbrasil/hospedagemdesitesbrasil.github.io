@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hospedagemdesitesbrasil.github.io/sitemap.xml
